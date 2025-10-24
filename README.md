@@ -27,4 +27,4 @@ Parents, students, teachers, and admins have dynamic, course-specific access.
 ---
 
 ## Contact
-- GitHub: [your-github-username](https://github.com/garvishtayal)
+- GitHub: [garvishtayal](https://github.com/garvishtayal)
